@@ -6,9 +6,9 @@ Este projeto está estruturado com os assuntos relacionados às estruturas de re
 
 *[Aula 1 - Comando for ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/97d1ff42906c111c0a283dc08906a23661fbcf4b)*
 
-<!-- *[Aula 2 - Comando while ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/)*
+*[Aula 2 - Comando while ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/9b74a6107c03a8082962a49890ee5387972dd2dc)*
 
-*[Aula 3 - Comando do..while ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/)* -->
+*[Aula 3 - Comando do..while ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/20822240fd2129d97894be29a2b6db5b32efe1bb)*
 
 
 
