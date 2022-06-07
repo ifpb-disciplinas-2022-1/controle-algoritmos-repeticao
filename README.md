@@ -10,6 +10,9 @@ Este projeto está estruturado com os assuntos relacionados às estruturas de re
 
 *[Aula 3 - Comando do..while ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/20822240fd2129d97894be29a2b6db5b32efe1bb)*
 
+*[Aula 4 - Trabalho Prático ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/8b7ea7aee2b33ccbd41c9f98b075ec1a54f2e8de)*
+
+*[Aula 5 - Revisão ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-repeticao/commit/3ebcf5d82ccf52226130e6c085113d8e62d0c963)*
 
 
 # Atividade prática
